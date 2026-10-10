@@ -1,0 +1,34 @@
+C:\Users\ASUS\source\repos\5.4\5.4\bin\Debug\net10.0-windows\5.4.exe
+C:\Users\ASUS\source\repos\5.4\5.4\bin\Debug\net10.0-windows\5.4.deps.json
+C:\Users\ASUS\source\repos\5.4\5.4\bin\Debug\net10.0-windows\5.4.runtimeconfig.json
+C:\Users\ASUS\source\repos\5.4\5.4\bin\Debug\net10.0-windows\5.4.dll
+C:\Users\ASUS\source\repos\5.4\5.4\bin\Debug\net10.0-windows\5.4.pdb
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\_5._4.Form1.resources
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.dll
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\refint\5.4.dll
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.pdb
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\ref\5.4.dll
+C:\Users\ASUS\source\repos\5.4\5.4\obj\Debug\net10.0-windows\5.4.csproj.Up2Date
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\bin\Debug\net10.0-windows\5.4.exe
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\bin\Debug\net10.0-windows\5.4.deps.json
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\bin\Debug\net10.0-windows\5.4.runtimeconfig.json
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\bin\Debug\net10.0-windows\5.4.dll
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\bin\Debug\net10.0-windows\5.4.pdb
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\_5._4.Form1.resources
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.AssemblyInfo.cs
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.dll
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\refint\5.4.dll
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.pdb
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.genruntimeconfig.cache
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\ref\5.4.dll
+C:\Users\PC\Downloads\5.4 (1)\5.4\5.4\obj\Debug\net10.0-windows\5.4.csproj.Up2Date
